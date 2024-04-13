@@ -46,4 +46,4 @@
    - Created a view `SummaryByCountry` to simplify access to aggregated data such as the total number of responses and average age per country.
 
 
-These tasks collectively showcase foundational SQL operations for data analysis, aimed at providing insightful observations into mental health trends across different demographics and countries. This project serves as a practical example of leveraging SQL skills in a data analysis context.
+These tasks collectively showcase foundational SQL operations for data analysis, aimed at providing insightful observations into mental health trends across different demographics and countries. This project serves as a practical example of leveraging SQL skills in a data analysis context. Please find the SQL code and the original dataset attached. 
